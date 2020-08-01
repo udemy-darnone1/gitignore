@@ -1,3 +1,8 @@
+# igmore single file
 new-file.txt
+
+# ignore all files in the bin/ directory
 bin/
- 
+
+# Ifnore all .tmp files
+*.tmp
