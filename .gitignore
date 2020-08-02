@@ -1,8 +1,8 @@
 # igmore single file
-another-file.txt
+new-file.txt
 
 # ignore all files in the bin/ directory
 bin/
 
 # Ifnore all .tmp files
-*.tmp
+*.tmp 
